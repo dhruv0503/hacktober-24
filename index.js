@@ -1,2 +1,2 @@
 const ankur = true;
-console.log(ankur);
+console.log(ankur, "straight");
