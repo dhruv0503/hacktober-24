@@ -1,2 +1,3 @@
 const ankur = true;
-console.log(ankur, "straight");
+console.log(ankur);
+console.log("true");
